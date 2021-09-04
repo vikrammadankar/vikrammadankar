@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vikram Madankar</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 🔭 I’m currently learning **React JS , Next JS , Tailwind CSS**
+- 🔭 I’m currently learning **React JS, React Native , Next JS , Tailwind CSS, Docker, UI/UX Design**
 
 - 👨‍💻 All of my projects are available at **https://github.com/vikrammadankar**
 
